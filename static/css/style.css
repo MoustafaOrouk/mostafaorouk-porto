@@ -1,0 +1,112 @@
+body {
+  background-color: #1c2e4a;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: Black;
+  font-size: 3.5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: Black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: Black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+   color:Black;
+   font-family: 'Montserrat', sans-serif;
+   position:top;
+}
+
+p {
+  line-height: 2;
+}
+
+
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #23395d;
+  position: relative;
+  padding-top: 80px;
+}
+
+.me {
+    position: top;
+    border-radius: 50%;
+    object-fit: cover;
+    height: 120px;
+    width: 120px;
+}
+
+.code-img{
+    position: relative;
+    height:420px;
+    width: 620px;
+    padding: 40px
+}
+
+.contact-me{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: relative;
+}
+
+.twitter{
+    position: left;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.linkedin{
+    position: center;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+.gmail{
+    position: right;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+
+
+.twitter-img{
+    height:50px;
+    width:50px;
+    position: relative;
+}
+
+.linkedin-img{
+    height:50px;
+    width:50px;
+    position: relative;
+}
+
+.gmail-img{
+    height:50px;
+    width:50px;
+    position: relative;
+}
